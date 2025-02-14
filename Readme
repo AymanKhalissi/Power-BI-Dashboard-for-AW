@@ -1,0 +1,24 @@
+Power BI Dashboard for Adventure Works
+📌 Overview
+This project features an interactive Power BI dashboard designed for Adventure Works, a fictitious retail company. The dashboard provides insights into key business metrics, helping stakeholders make data-driven decisions.
+
+🚀 Features
+📊 Sales Analysis: Breakdown by product, region, and time periods.
+📈 Customer Insights: Segmentation based on demographics and purchasing behavior.
+💰 Profitability Metrics: Revenue, profit margins, and cost analysis.
+📦 Inventory & Supply Chain: Stock levels, supplier performance, and order fulfillment rates.
+📍 Geographical Analysis: Regional sales performance with interactive maps.
+🏗️ Tech Stack
+Power BI: For interactive data visualization.
+SQL: To extract and transform data.
+Excel / CSV: For data storage and integration.
+DAX (Data Analysis Expressions): For calculations and aggregations.
+🔧 Installation & Setup
+Clone the repository
+git clone https://github.com/AymanKhalissi/Power-BI-Dashboard-for-AW.git
+Open Power BI Desktop and load PowerBI_Dashboard.pbix.
+Ensure the dataset paths are correctly configured.
+Refresh the dataset to update the latest data.
+Explore and interact with the dashboard!
+📸 Dashboard Preview
+(Include screenshots of the dashboard to give users a quick overview.)
